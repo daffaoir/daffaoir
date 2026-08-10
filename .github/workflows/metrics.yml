@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          base: ""
+          base: "header"
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 6
