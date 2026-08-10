@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/status-open%20to%20opportunities-brightgreen?style=for-the-badge" alt="Open to opportunities" />
 
 <a href="https://daffario.dev">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&width=900&center=true&vCenter=true&lines=Problem+solver+who+happens+to+code.;I+don't+chase+stacks+or+trends.;I+chase+the+problem%2C+then+build+whatever+solves+it." alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/daffarioalexandra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/daffarioalexandra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/_daffario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:daffarioalexandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
