@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://daffario.dev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Problem+solver+who+happens+to+code.;I+don't+chase+stacks+or+trends.;I+chase+the+actual+problem%2C+then+build+whatever+solves+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&width=900&center=true&vCenter=true&lines=Problem+solver+who+happens+to+code.;I+don't+chase+stacks+or+trends.;I+chase+the+problem%2C+then+build+whatever+solves+it." alt="Typing SVG" />
 </a>
 
 🌐 [daffario.dev](https://daffario.dev) &nbsp;·&nbsp; portfolio site in progress
+
+<img src="https://komarev.com/ghpvc/?username=daffaoir&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 
 </div>
 
@@ -16,11 +18,21 @@
 
 <br>
 
+## 📊 Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffaoir&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://raw.githubusercontent.com/daffaoir/daffaoir/main/metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
-## My Contribution Graph
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffaoir&theme=react-dark&hide_border=true" alt="Activity graph" width="100%" />
+</div>
+
+## 👻 Contribution Graph
+
+<div align="center">
 
 <!-- pacman -->
 <picture>
@@ -28,3 +40,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
