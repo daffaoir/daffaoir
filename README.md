@@ -18,19 +18,13 @@
 
 <br>
 
-## 📊 Metrics
+## What I've been writing lately
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daffaoir/daffaoir/main/metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/daffaoir/daffaoir/main/metrics.svg" alt="Languages" width="500" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffaoir&theme=react-dark&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
-## 👻 Contribution Graph
+## Eating my way through the year
 
 <div align="center">
 
@@ -38,7 +32,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph.svg">
+    <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/daffaoir/daffaoir/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
